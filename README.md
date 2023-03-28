@@ -8,13 +8,24 @@ In the distant future, Father and his sentient creation I have an intellectual d
 
 ## Father
 1. Record video of self with green screen. Convert video to PNG sequence.
-2. Upload 0 keyframe (the first image) from PNG sequence to [Dream Studio](https://beta.dreamstudio.ai/generate). Generate image using the following prompts and settings below. 
+2. Upload 0 keyframe (the first image) from PNG sequence to [Dream Studio](https://beta.dreamstudio.ai/generate). Generate image using the following prompt and settings below. 
 
 ![Father - Dream Studio Settings](/settings/Father%20-%20Dream%20Studio%20Settings.png)
 
+3. Generate background image using the following prompt and settings below. 
+
 ![Father Background - Dream Studio Settings](/settings/Father%20Background%20-%20Dream%20Studio%20Settings.png)
 
+4. Upload new 0 keyframe and original PNG sequence to [EbSynth](https://ebsynth.com/) and synth them together.
+
+5. Convert new PNG sequence to video and layer onto background image, removing green screen with chroma key.
+
+## I
+1. Generate image on Dream Studio using the following prompt and settings below.
+
 ![I - Dream Studio Settings](/settings/I%20-%20Dream%20Studio%20Settings.png)
+
+2. Generate image on Dream Studio using the following prompt and settings below.
 
 ![I (Edited) - Dream Studio Settings](/settings/I%20(Edited)%20-%20Dream%20Studio%20Settings.png)
 
