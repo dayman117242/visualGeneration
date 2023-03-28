@@ -4,7 +4,11 @@ In the distant future, Father and his sentient creation I have an intellectual d
 
 ---
 
-## Instructions
+# Instructions
+
+## Father
+1. Record video of self with green screen. Convert video to PNG sequence.
+2. Upload 0 keyframe (the first image) from PNG sequence to [Dream Studio](https://beta.dreamstudio.ai/generate). Generate image using the following prompts and settings below. 
 
 ![Father - Dream Studio Settings](/settings/Father%20-%20Dream%20Studio%20Settings.png)
 
@@ -24,7 +28,7 @@ In the distant future, Father and his sentient creation I have an intellectual d
 
 ---
 
-## Artist's Statement
+# Artist's Statement
 
 For this project I decided to draw from my academic background in religious studies and philosophy during my undergrad years. One fascinating course called Future of Religion explored the impact of technology on society in religious contexts, and I found this assignment the perfect opportunity to delve further into those themes such as artificial intelligence, sentience, and transhumanism. 
 
