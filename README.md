@@ -1,6 +1,8 @@
 # Deus Ex Machina
 
-In the distant future, Father and his sentient creation I have an intellectual discussion.
+In the distant future, Father and his sentient creation I have an intellectual discussion concerning existentialism, omnipotence, and the fate of humanity.
+
+Mixing various AI techniques (Dream Studio, Kaiber, and Arbitrary Style Transfer) with rotoscoping software EbSynth, the visually generated work intends to comment on itself regarding the rapidly advancing technologies of AI and their ramifications in human civilization.
 
 ---
 
