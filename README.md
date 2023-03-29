@@ -46,7 +46,7 @@ In the distant future, Father and his sentient creation I have an intellectual d
 
 ![I - Arbitrary Transfer Settings](/settings/I%20-%20Arbitrary%20Transfer%20Settings.png)
 
-7. Upload stylized 0 keyframe and Father PNG sequence to [EbSynth](https://ebsynth.com/). Synth them together to generate new sequence of I imitating Father.
+7. Upload stylized 0 keyframe and Father PNG sequence to EbSynth. Synth them together to generate new sequence of I imitating Father.
 
 8. Convert stylized PNG sequence to video. Chroma key sequence and Kaiber animation into green screen of Dream Studio image with video editing software.
 
